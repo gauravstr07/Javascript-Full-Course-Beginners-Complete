@@ -1,4 +1,4 @@
-console.log("Hello world");
+const myVariable = "Javascript";
 
-console.log(typeof "Dave");
-console.log(typeof 26);
+console.log(myVariable.charAt(5));
+console.log(myVariable.indexOf("cri"));

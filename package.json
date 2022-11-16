@@ -1,0 +1,21 @@
+{
+  "name": "javascript-full-course-beginners-complete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "js/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravstr07/Javascript-Full-Course-Beginners-Complete.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravstr07/Javascript-Full-Course-Beginners-Complete/issues"
+  },
+  "homepage": "https://github.com/gauravstr07/Javascript-Full-Course-Beginners-Complete#readme"
+}
